@@ -1,0 +1,7 @@
+name: MyPlugin
+version: ${project.version}
+main: myplugin.Main
+api-version: 1.17
+authors: [ KeksGauner ]
+description: '</>'
+website: '</>'
