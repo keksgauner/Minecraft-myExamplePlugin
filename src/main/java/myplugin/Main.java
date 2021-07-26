@@ -2,7 +2,7 @@ package myplugin;
 
 import myplugin.command.Command_Tabolator;
 import myplugin.command.Command_KeksGauner;
-import myplugin.external.InitializeManager;
+import myplugin.apis.InitializeManager;
 import myplugin.listener.Event_Join;
 import myplugin.utils.Data;
 import org.bukkit.plugin.java.JavaPlugin;

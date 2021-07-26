@@ -1,4 +1,4 @@
-package myplugin.external;
+package myplugin.apis;
 
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

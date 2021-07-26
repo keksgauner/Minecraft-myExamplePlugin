@@ -1,4 +1,4 @@
-package myplugin.external;
+package myplugin.apis;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;

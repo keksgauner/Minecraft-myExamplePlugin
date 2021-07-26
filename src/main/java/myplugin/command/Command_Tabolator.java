@@ -1,6 +1,6 @@
 package myplugin.command;
 
-import myplugin.external.Check;
+import myplugin.apis.Check;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.command.CommandSender;
@@ -11,7 +11,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * This is a example of a command with tabolator
  *
  * @author KeksGauner
  */

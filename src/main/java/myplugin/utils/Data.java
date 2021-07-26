@@ -1,9 +1,10 @@
 package myplugin.utils;
 
 import myplugin.Main;
-import myplugin.external.ConfigAccessor;
+import myplugin.apis.ConfigAccessor;
 
 /**
+ *
  * @author KeksGauner
  */
 public class Data {

@@ -1,7 +1,7 @@
 package myplugin.command;
 
-import myplugin.external.Check;
-import myplugin.external.TextComponentBuilder;
+import myplugin.apis.Check;
+import myplugin.apis.TextComponentBuilder;
 import myplugin.utils.Data;
 import net.md_5.bungee.api.chat.ClickEvent;
 import org.bukkit.command.CommandSender;
@@ -9,7 +9,6 @@ import org.bukkit.command.defaults.BukkitCommand;
 import org.bukkit.entity.Player;
 
 /**
- * This is a example of a command
  *
  * @author KeksGauner
  */
