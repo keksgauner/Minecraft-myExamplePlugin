@@ -73,7 +73,7 @@ public class CostomListBuilder {
         }
 
         if(9 >= length) {
-            inv.setItem(10 - 1, ItemManager.createItem(Material.BLACK_STAINED_GLASS_PANE, "§7Keine Seite vorhanden"));
+            inv.setItem(10 - 1, new ItemBuilder(Material.BLACK_STAINED_GLASS_PANE, 1).setName("§7Keine Seite vorhanden"));
             inv.setItem(9 * 2 - 1, ItemManager.createItem(Material.BLACK_STAINED_GLASS_PANE, "§7Keine Seite vorhanden"));
         } else
 

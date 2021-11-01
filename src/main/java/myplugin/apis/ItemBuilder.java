@@ -16,7 +16,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
-public class ItemBuilder {
+public class ItemBuilder extends ItemStack {
 
     private final ItemStack itemStack;
     private final ItemFactory itemFactory;
