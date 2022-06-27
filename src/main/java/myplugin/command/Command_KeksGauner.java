@@ -1,7 +1,7 @@
 package myplugin.command;
 
-import myplugin.apis.Check;
-import myplugin.apis.TextComponentBuilder;
+import myplugin.libraries.Check;
+import myplugin.libraries.TextComponentBuilder;
 import myplugin.utils.Data;
 import net.md_5.bungee.api.chat.ClickEvent;
 import org.bukkit.command.CommandSender;

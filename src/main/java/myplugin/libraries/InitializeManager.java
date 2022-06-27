@@ -1,4 +1,4 @@
-package myplugin.apis;
+package myplugin.libraries;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;

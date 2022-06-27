@@ -1,4 +1,4 @@
-package myplugin.apis;
+package myplugin.libraries;
 
 import net.md_5.bungee.api.chat.ClickEvent;
 import org.bukkit.Material;

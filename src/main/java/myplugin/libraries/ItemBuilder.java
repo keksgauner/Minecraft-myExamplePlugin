@@ -1,4 +1,4 @@
-package myplugin.apis;
+package myplugin.libraries;
 
 import org.bukkit.*;
 import org.bukkit.block.banner.Pattern;

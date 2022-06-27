@@ -1,4 +1,4 @@
-package myplugin.apis;
+package myplugin.libraries;
 
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

@@ -1,4 +1,4 @@
-package myplugin.apis;
+package myplugin.libraries;
 
 import java.io.File;
 import java.io.IOException;

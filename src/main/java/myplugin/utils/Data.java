@@ -1,7 +1,7 @@
 package myplugin.utils;
 
 import myplugin.Main;
-import myplugin.apis.ConfigAccessor;
+import myplugin.libraries.ConfigAccessor;
 
 /**
  *

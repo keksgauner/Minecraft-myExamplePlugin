@@ -1,6 +1,6 @@
 package myplugin.command;
 
-import myplugin.apis.Check;
+import myplugin.libraries.Check;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.command.CommandSender;
